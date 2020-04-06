@@ -1,0 +1,789 @@
+
+BurgerCafe.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+27259-9-sparkle
+  rotate: false
+  xy: 855, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_build_shadow
+  rotate: true
+  xy: 2, 67
+  size: 611, 298
+  orig: 611, 298
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_door
+  rotate: false
+  xy: 620, 514
+  size: 39, 98
+  orig: 39, 98
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_grass06
+  rotate: true
+  xy: 985, 195
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_grass07
+  rotate: true
+  xy: 985, 104
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_ground
+  rotate: false
+  xy: 2, 680
+  size: 658, 342
+  orig: 658, 342
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs02
+  rotate: false
+  xy: 711, 5
+  size: 134, 95
+  orig: 134, 95
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs03
+  rotate: true
+  xy: 620, 614
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs04
+  rotate: false
+  xy: 171, 3
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_roof_p1
+  rotate: true
+  xy: 959, 2
+  size: 100, 53
+  orig: 100, 53
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_stair2
+  rotate: true
+  xy: 641, 385
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_build
+  rotate: true
+  xy: 302, 178
+  size: 500, 316
+  orig: 500, 316
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_bush01
+  rotate: true
+  xy: 620, 179
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_bush01_shadow
+  rotate: false
+  xy: 92, 2
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_bush04_shadow
+  rotate: false
+  xy: 2, 2
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_chair01
+  rotate: false
+  xy: 985, 140
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_chair03
+  rotate: false
+  xy: 265, 13
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_chair04
+  rotate: false
+  xy: 677, 178
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_door
+  rotate: false
+  xy: 620, 415
+  size: 39, 97
+  orig: 39, 97
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_flowers02_shasow
+  rotate: true
+  xy: 855, 5
+  size: 97, 102
+  orig: 97, 102
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_ground
+  rotate: true
+  xy: 662, 366
+  size: 656, 340
+  orig: 656, 340
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_peak01_shadow
+  rotate: true
+  xy: 711, 102
+  size: 130, 142
+  orig: 130, 142
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_peak02_shadow
+  rotate: true
+  xy: 873, 237
+  size: 127, 136
+  orig: 127, 136
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_stair_mask
+  rotate: true
+  xy: 620, 385
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+leaves-blowing
+  rotate: false
+  xy: 302, 12
+  size: 407, 164
+  orig: 407, 164
+  offset: 0, 0
+  index: -1
+windy4
+  rotate: false
+  xy: 620, 234
+  size: 251, 130
+  orig: 251, 130
+  offset: 0, 0
+  index: -1
+
+BurgerCafe2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BurgerCafe_up00_CLOSED
+  rotate: true
+  xy: 631, 2
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_build
+  rotate: false
+  xy: 2, 708
+  size: 492, 314
+  orig: 492, 314
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_door_mask
+  rotate: true
+  xy: 496, 722
+  size: 46, 113
+  orig: 46, 113
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_grass01
+  rotate: false
+  xy: 258, 2
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_grass02
+  rotate: false
+  xy: 745, 138
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_grass03
+  rotate: false
+  xy: 864, 542
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_grass04
+  rotate: true
+  xy: 901, 324
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_grass05
+  rotate: false
+  xy: 769, 37
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_grass08
+  rotate: false
+  xy: 784, 183
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs01
+  rotate: true
+  xy: 506, 230
+  size: 118, 85
+  orig: 118, 85
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs05
+  rotate: false
+  xy: 784, 275
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs06
+  rotate: true
+  xy: 924, 378
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs07
+  rotate: false
+  xy: 711, 543
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs08
+  rotate: true
+  xy: 197, 2
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs09
+  rotate: false
+  xy: 958, 613
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs10
+  rotate: false
+  xy: 611, 698
+  size: 125, 70
+  orig: 125, 70
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs11
+  rotate: true
+  xy: 506, 595
+  size: 125, 82
+  orig: 125, 82
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs12
+  rotate: true
+  xy: 915, 608
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_oldleafs13
+  rotate: false
+  xy: 497, 2
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_plamk01
+  rotate: false
+  xy: 665, 411
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_plamk02
+  rotate: true
+  xy: 948, 321
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_plamk03
+  rotate: false
+  xy: 784, 227
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_plamk04
+  rotate: true
+  xy: 698, 80
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_plamk05
+  rotate: true
+  xy: 696, 135
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_plamk06
+  rotate: true
+  xy: 647, 116
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_plamk07
+  rotate: false
+  xy: 723, 418
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_plamk08
+  rotate: false
+  xy: 325, 2
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_plamk09
+  rotate: false
+  xy: 972, 566
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_plamk10
+  rotate: true
+  xy: 649, 58
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_roof
+  rotate: true
+  xy: 2, 209
+  size: 497, 252
+  orig: 497, 252
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_roof_p1_shadow
+  rotate: false
+  xy: 2, 91
+  size: 162, 116
+  orig: 162, 116
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_roof_p2
+  rotate: false
+  xy: 798, 130
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_roof_p3
+  rotate: true
+  xy: 797, 80
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_stair1
+  rotate: true
+  xy: 662, 531
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_window01
+  rotate: true
+  xy: 506, 177
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_window02
+  rotate: true
+  xy: 858, 488
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_window03
+  rotate: true
+  xy: 858, 435
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_window04
+  rotate: false
+  xy: 665, 452
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+BurgerCafe_up00_window05
+  rotate: true
+  xy: 779, 489
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_bush02
+  rotate: false
+  xy: 847, 324
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_bush02_shadow
+  rotate: true
+  xy: 592, 410
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_bush03
+  rotate: false
+  xy: 573, 2
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_bush03_shadow
+  rotate: false
+  xy: 735, 605
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_bush04
+  rotate: true
+  xy: 667, 350
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_chair01_shadow
+  rotate: true
+  xy: 726, 350
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_chair02
+  rotate: true
+  xy: 383, 5
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_chair02_shadow
+  rotate: false
+  xy: 779, 392
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_door_mask
+  rotate: true
+  xy: 280, 54
+  size: 46, 113
+  orig: 46, 113
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_flowers01
+  rotate: false
+  xy: 497, 113
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_flowers01_shadow
+  rotate: true
+  xy: 958, 680
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_flowers02
+  rotate: false
+  xy: 592, 350
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_flowers03
+  rotate: false
+  xy: 852, 378
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_flowers03_shadow
+  rotate: false
+  xy: 590, 613
+  size: 94, 83
+  orig: 94, 83
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_flowers04
+  rotate: true
+  xy: 784, 323
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_flowers04_shadow
+  rotate: true
+  xy: 593, 257
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_flowers05
+  rotate: true
+  xy: 827, 603
+  size: 72, 86
+  orig: 72, 86
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_flowers05_shadow
+  rotate: false
+  xy: 859, 677
+  size: 97, 91
+  orig: 97, 91
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_flowers06
+  rotate: false
+  xy: 2, 2
+  size: 73, 87
+  orig: 73, 87
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_flowers06_shadow
+  rotate: true
+  xy: 592, 504
+  size: 107, 68
+  orig: 107, 68
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_peak01
+  rotate: false
+  xy: 497, 53
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_peak02
+  rotate: false
+  xy: 571, 114
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_peak03
+  rotate: false
+  xy: 573, 54
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_peak03_shadow
+  rotate: true
+  xy: 738, 690
+  size: 78, 119
+  orig: 78, 119
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_peak04
+  rotate: true
+  xy: 719, 467
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_peak04_shadow
+  rotate: false
+  xy: 506, 350
+  size: 84, 120
+  orig: 84, 120
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_peak05
+  rotate: false
+  xy: 788, 543
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_peak05_shadow
+  rotate: true
+  xy: 77, 2
+  size: 79, 118
+  orig: 79, 118
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_roof
+  rotate: false
+  xy: 496, 770
+  size: 497, 252
+  orig: 497, 252
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_roof_p1
+  rotate: false
+  xy: 395, 41
+  size: 100, 53
+  orig: 100, 53
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_roof_p2
+  rotate: true
+  xy: 166, 83
+  size: 124, 112
+  orig: 124, 112
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_roof_p2_shadow
+  rotate: true
+  xy: 256, 211
+  size: 495, 248
+  orig: 495, 248
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_roof_p3
+  rotate: false
+  xy: 593, 174
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_roof_p3_shadow
+  rotate: false
+  xy: 280, 102
+  size: 123, 107
+  orig: 123, 107
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_roof_p4
+  rotate: false
+  xy: 719, 25
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_roof_p4_shadow
+  rotate: true
+  xy: 686, 2
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_roof_p5
+  rotate: false
+  xy: 747, 84
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_roof_p5_shadow
+  rotate: false
+  xy: 438, 9
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_stair
+  rotate: true
+  xy: 686, 616
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_table01
+  rotate: false
+  xy: 405, 96
+  size: 90, 113
+  orig: 90, 113
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_table01_shadow
+  rotate: true
+  xy: 506, 472
+  size: 121, 84
+  orig: 121, 84
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_window01
+  rotate: true
+  xy: 779, 436
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_window02
+  rotate: false
+  xy: 730, 272
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_window03
+  rotate: false
+  xy: 731, 194
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_window04
+  rotate: false
+  xy: 676, 271
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+BurgerCafe_up01_window05
+  rotate: false
+  xy: 677, 192
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1

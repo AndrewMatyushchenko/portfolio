@@ -1,0 +1,118 @@
+
+Sultan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5/beard
+  rotate: true
+  xy: 305, 338
+  size: 160, 396
+  orig: 160, 396
+  offset: 0, 0
+  index: -1
+5/coat
+  rotate: false
+  xy: 2, 197
+  size: 301, 301
+  orig: 301, 301
+  offset: 0, 0
+  index: -1
+5/eye
+  rotate: false
+  xy: 986, 481
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+5/eye_closed_1
+  rotate: false
+  xy: 2, 6
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+5/eye_closed_2
+  rotate: false
+  xy: 546, 98
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+5/eyebrows
+  rotate: true
+  xy: 929, 48
+  size: 106, 47
+  orig: 106, 47
+  offset: 0, 0
+  index: -1
+5/glow
+  rotate: false
+  xy: 666, 304
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+5/hand_1
+  rotate: false
+  xy: 703, 263
+  size: 281, 235
+  orig: 281, 235
+  offset: 0, 0
+  index: -1
+5/hand_2_1
+  rotate: false
+  xy: 929, 156
+  size: 76, 105
+  orig: 76, 105
+  offset: 0, 0
+  index: -1
+5/head
+  rotate: true
+  xy: 305, 122
+  size: 214, 273
+  orig: 214, 273
+  offset: 0, 0
+  index: -1
+5/leg_1
+  rotate: false
+  xy: 292, 23
+  size: 125, 97
+  orig: 125, 97
+  offset: 0, 0
+  index: -1
+5/leg_2
+  rotate: false
+  xy: 419, 23
+  size: 125, 97
+  orig: 125, 97
+  offset: 0, 0
+  index: -1
+5/mustage
+  rotate: false
+  xy: 929, 5
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+5/pouch
+  rotate: true
+  xy: 2, 32
+  size: 163, 288
+  orig: 163, 288
+  offset: 0, 0
+  index: -1
+5/ropes
+  rotate: false
+  xy: 580, 136
+  size: 84, 200
+  orig: 84, 200
+  offset: 0, 0
+  index: -1
+5/torso
+  rotate: true
+  xy: 666, 2
+  size: 259, 261
+  orig: 259, 261
+  offset: 0, 0
+  index: -1

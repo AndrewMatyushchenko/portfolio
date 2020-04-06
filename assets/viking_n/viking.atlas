@@ -1,0 +1,314 @@
+
+viking.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1 copy 4
+  rotate: false
+  xy: 445, 366
+  size: 57, 140
+  orig: 57, 140
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 569, 664
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+mainhero_BG
+  rotate: false
+  xy: 166, 358
+  size: 192, 660
+  orig: 192, 660
+  offset: 0, 0
+  index: -1
+mainhero_accessory
+  rotate: false
+  xy: 532, 762
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+mainhero_ax1
+  rotate: true
+  xy: 360, 669
+  size: 91, 134
+  orig: 91, 134
+  offset: 0, 0
+  index: -1
+mainhero_ax2
+  rotate: false
+  xy: 844, 303
+  size: 135, 203
+  orig: 135, 203
+  offset: 0, 0
+  index: -1
+mainhero_ax3
+  rotate: true
+  xy: 311, 2
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+mainhero_bag
+  rotate: false
+  xy: 496, 700
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+mainhero_belt1
+  rotate: false
+  xy: 532, 798
+  size: 110, 62
+  orig: 110, 62
+  offset: 0, 0
+  index: -1
+mainhero_belt2
+  rotate: false
+  xy: 496, 3
+  size: 118, 43
+  orig: 118, 43
+  offset: 0, 0
+  index: -1
+mainhero_belt3
+  rotate: false
+  xy: 369, 3
+  size: 125, 43
+  orig: 125, 43
+  offset: 0, 0
+  index: -1
+mainhero_belt4
+  rotate: false
+  xy: 360, 890
+  size: 131, 58
+  orig: 131, 58
+  offset: 0, 0
+  index: -1
+mainhero_body
+  rotate: true
+  xy: 653, 640
+  size: 170, 215
+  orig: 170, 215
+  offset: 0, 0
+  index: -1
+mainhero_boot1
+  rotate: true
+  xy: 571, 537
+  size: 125, 76
+  orig: 125, 76
+  offset: 0, 0
+  index: -1
+mainhero_boot2
+  rotate: false
+  xy: 670, 365
+  size: 127, 57
+  orig: 127, 57
+  offset: 0, 0
+  index: -1
+mainhero_closedeyes_1
+  rotate: true
+  xy: 11, 9
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+mainhero_closedeyes_2
+  rotate: true
+  xy: 2, 6
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+mainhero_frame2
+  rotate: false
+  xy: 2, 342
+  size: 111, 676
+  orig: 111, 676
+  offset: 0, 0
+  index: -1
+mainhero_frame3
+  rotate: false
+  xy: 21, 10
+  size: 136, 12
+  orig: 136, 12
+  offset: 0, 0
+  index: -1
+mainhero_frame4
+  rotate: false
+  xy: 159, 10
+  size: 135, 12
+  orig: 135, 12
+  offset: 0, 0
+  index: -1
+mainhero_frame5
+  rotate: false
+  xy: 115, 342
+  size: 49, 676
+  orig: 49, 676
+  offset: 0, 0
+  index: -1
+mainhero_fur
+  rotate: false
+  xy: 451, 764
+  size: 71, 124
+  orig: 71, 124
+  offset: 0, 0
+  index: -1
+mainhero_fur1
+  rotate: true
+  xy: 870, 508
+  size: 204, 150
+  orig: 204, 150
+  offset: 0, 0
+  index: -1
+mainhero_fur1_1
+  rotate: true
+  xy: 873, 956
+  size: 62, 147
+  orig: 62, 147
+  offset: 0, 0
+  index: -1
+mainhero_fur2
+  rotate: false
+  xy: 873, 790
+  size: 146, 164
+  orig: 146, 164
+  offset: 0, 0
+  index: -1
+mainhero_fur2_1
+  rotate: false
+  xy: 532, 509
+  size: 37, 153
+  orig: 37, 153
+  offset: 0, 0
+  index: -1
+mainhero_fur3
+  rotate: true
+  xy: 670, 424
+  size: 125, 172
+  orig: 125, 172
+  offset: 0, 0
+  index: -1
+mainhero_hair
+  rotate: false
+  xy: 360, 764
+  size: 89, 124
+  orig: 89, 124
+  offset: 0, 0
+  index: -1
+mainhero_hand1
+  rotate: false
+  xy: 504, 368
+  size: 63, 138
+  orig: 63, 138
+  offset: 0, 0
+  index: -1
+mainhero_hand2
+  rotate: true
+  xy: 360, 365
+  size: 141, 83
+  orig: 141, 83
+  offset: 0, 0
+  index: -1
+mainhero_hand3
+  rotate: true
+  xy: 532, 936
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+mainhero_hand4
+  rotate: true
+  xy: 532, 862
+  size: 72, 111
+  orig: 72, 111
+  offset: 0, 0
+  index: -1
+mainhero_head
+  rotate: true
+  xy: 569, 736
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+mainhero_leather
+  rotate: false
+  xy: 360, 568
+  size: 134, 99
+  orig: 134, 99
+  offset: 0, 0
+  index: -1
+mainhero_leg1
+  rotate: true
+  xy: 870, 714
+  size: 74, 152
+  orig: 74, 152
+  offset: 0, 0
+  index: -1
+mainhero_leg2
+  rotate: true
+  xy: 360, 950
+  size: 68, 136
+  orig: 68, 136
+  offset: 0, 0
+  index: -1
+mainhero_pendant
+  rotate: true
+  xy: 616, 4
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+mainhero_pigtails_1
+  rotate: true
+  xy: 360, 509
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+mainhero_pigtails_2
+  rotate: true
+  xy: 440, 511
+  size: 38, 90
+  orig: 38, 90
+  offset: 0, 0
+  index: -1
+mainhero_skirt
+  rotate: true
+  xy: 653, 812
+  size: 206, 218
+  orig: 206, 218
+  offset: 0, 0
+  index: -1
+mainhero_snow1
+  rotate: true
+  xy: 311, 48
+  size: 308, 307
+  orig: 308, 307
+  offset: 0, 0
+  index: -1
+mainhero_snow1 copy 2
+  rotate: true
+  xy: 653, 551
+  size: 87, 209
+  orig: 87, 209
+  offset: 0, 0
+  index: -1
+mainhero_snow1 copy 6
+  rotate: false
+  xy: 571, 359
+  size: 97, 176
+  orig: 97, 176
+  offset: 0, 0
+  index: -1
+mainhero_snow2
+  rotate: true
+  xy: 2, 24
+  size: 316, 307
+  orig: 316, 307
+  offset: 0, 0
+  index: -1

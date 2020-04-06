@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script src="http://esotericsoftware.com/files/spine-player/3.8/spine-player.js"></script>
+        <link rel="stylesheet" href="http://esotericsoftware.com/files/spine-player/3.8/spine-player.css">
+
+        <meta name="viewport" content="width=device-width, iitial-scale=1/0">
+       
+    </head>
+  
+    <style>
+    
+    body {
+        background: #99ccff;
+        margin: 0px;
+    }
+    
+    #container {
+        margin: auto 0;
+    }
+    
+    
+    </style>
+    
+   
+    <body>
+        <div>
+            <div id="girlPirat-container" style="width: 640px; height: 480px"></div>
+            <div id="fairy-container" style="width: 640px; height: 480px"></div>
+            <div id="witch-container" style="width: 640px; height: 480px"></div>
+            <div id="viking_n-container" style="width: 640px; height: 480px"></div>
+            <div id="telka-container" style="width: 640px; height: 480px"></div>
+            <div id="burgerCafe-container" style="width: 640px; height: 480px"></div>
+            <iframe src="http://www.youtube.com/embed/ozIP4WLezu4" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            <iframe src="http://www.youtube.com/embed/3m39whWGFNs" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            <iframe src="http://www.youtube.com/embed/PuIPCi_tIVY" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            <iframe src="http://www.youtube.com/embed/rSyvcojJTTg" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            <iframe src="http://www.youtube.com/embed/vyIGmG429mM" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            <iframe src="http://www.youtube.com/embed/wSod6llh20Q" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+        <div>
+               
+    </body>
+
+    <script>
+
+        new spine.SpinePlayer("girlPirat-container", {
+            jsonUrl: "assets/girlPirat/Girl_pirat.json",
+            atlasUrl: "assets/girlPirat/Girl_pirat.atlas",
+            backgroundColor: "040d4c",
+            animation: "animation_win"
+        });
+
+        new spine.SpinePlayer("fairy-container", {
+            jsonUrl: "assets/fairy/fairy_root.json",
+            atlasUrl: "assets/fairy/fairy_root.atlas",
+            backgroundColor: "6666cc",
+            animations: ["animation_idle", "animation_win2"],
+            animation: "animation_win2"
+        });
+        
+        new spine.SpinePlayer("witch-container", {
+            jsonUrl: "assets/witch/witch.json",
+            atlasUrl: "assets/witch/witch.atlas",
+            backgroundColor: "999933",
+            skin: ["3"]
+            //skins: ["1","2","3","4","5"]
+        });
+        
+        new spine.SpinePlayer("viking_n-container", {
+            jsonUrl: "assets/viking_n/viking.json",
+            atlasUrl: "assets/viking_n/viking.atlas",
+            backgroundColor: "#122136",
+        });
+
+        new spine.SpinePlayer("telka-container", {
+            jsonUrl: "assets/beerfest/Junior.json",
+            atlasUrl: "assets/beerfest/Junior.atlas",
+            backgroundColor: "663333",
+        });
+
+        new spine.SpinePlayer("burgerCafe-container", {
+            jsonUrl: "assets/burgerCafe/BurgerCafe.json",
+            atlasUrl: "assets/burgerCafe/BurgerCafe.atlas",
+            alpha: true,
+            backgroundColor: "006600",
+        });
+    </script>
+ </html>

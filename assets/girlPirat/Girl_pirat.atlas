@@ -1,0 +1,188 @@
+
+Girl_pirat.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 537
+  rotate: false
+  xy: 849, 910
+  size: 70, 111
+  orig: 70, 111
+  offset: 0, 0
+  index: -1
+blink_1
+  rotate: false
+  xy: 661, 74
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 543
+  size: 278, 478
+  orig: 278, 478
+  offset: 0, 0
+  index: -1
+bracelet
+  rotate: true
+  xy: 803, 396
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 648, 594
+  size: 253, 227
+  orig: 253, 227
+  offset: 0, 0
+  index: -1
+cloth_up
+  rotate: false
+  xy: 2, 11
+  size: 257, 128
+  orig: 257, 128
+  offset: 0, 0
+  index: -1
+detail
+  rotate: false
+  xy: 727, 294
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+ear_1
+  rotate: false
+  xy: 921, 976
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+ear_2
+  rotate: false
+  xy: 526, 28
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 849, 874
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 865, 366
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 464, 72
+  size: 195, 56
+  orig: 195, 56
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 282, 604
+  size: 243, 364
+  orig: 243, 364
+  offset: 0, 0
+  index: -1
+hand_02
+  rotate: false
+  xy: 258, 176
+  size: 210, 224
+  orig: 210, 224
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 282, 402
+  size: 299, 200
+  orig: 299, 200
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 261, 2
+  size: 172, 201
+  orig: 172, 201
+  offset: 0, 0
+  index: -1
+leg_01
+  rotate: true
+  xy: 282, 849
+  size: 172, 565
+  orig: 172, 565
+  offset: 0, 0
+  index: -1
+leg_02
+  rotate: false
+  xy: 2, 141
+  size: 254, 400
+  orig: 254, 400
+  offset: 0, 0
+  index: -1
+pupil_1
+  rotate: false
+  xy: 921, 948
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+pupil_2
+  rotate: false
+  xy: 258, 518
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+ring_01
+  rotate: false
+  xy: 803, 333
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+ring_02
+  rotate: false
+  xy: 464, 9
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+spyglass
+  rotate: false
+  xy: 583, 394
+  size: 218, 198
+  orig: 218, 198
+  offset: 0, 0
+  index: -1
+trunck
+  rotate: false
+  xy: 470, 246
+  size: 255, 146
+  orig: 255, 146
+  offset: 0, 0
+  index: -1
+trunck_lock
+  rotate: false
+  xy: 727, 314
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+trunk_top
+  rotate: false
+  xy: 470, 130
+  size: 261, 114
+  orig: 261, 114
+  offset: 0, 0
+  index: -1
